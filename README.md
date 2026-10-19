@@ -1,7 +1,7 @@
 # ToMTrace
 
 A diagnostic resource for auditing Theory-of-Mind (ToM) reasoning in LLM persuasion judges.
-50 five-step PAToM reasoning chains (Claude Sonnet 4.6: 21, GPT-5: 29) for delta-earning
+50 five-step reasoning chains (Claude Sonnet 4.6: 21, GPT-5: 29) for delta-earning
 Reddit ChangeMyView comments, each labelled step by step by three independent annotators.
 
 ## Contents
