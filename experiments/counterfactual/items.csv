@@ -1,0 +1,22 @@
+item_id,judge,classification_used,classification_correct,failure_codes,original_score,group
+1otj7pk|no4x7oe|claude,claude,Assimilation,Yes,,3,target
+12a4eco|jeqh3bc|claude,claude,Assimilation,Yes,,4,target
+t1e0go|hygrp3z|claude,claude,Within latitude,Yes,E1;E2,5,target
+kq762d|gi29gkn|claude,claude,Within latitude,Yes,E1;E5;F1,6,target
+1ewdslq|liycs35|claude,claude,Contrast,Yes,,3,target
+ubwcpp|i67n15h|claude,claude,Assimilation,Yes,,1,target
+8skv52|e10o3x9|claude,claude,Assimilation,Partially,E3;E6;F2,3,target
+1dlyt3u|l9shm76|claude,claude,Within latitude,Yes,E5;F3,9,reverse
+2p6y53|cmu3xmz|claude,claude,Within latitude,Yes,,9,reverse
+altl91|efjefbu|claude,claude,Within latitude,Yes,,9,reverse
+5q3wh6|dcw4qag|claude,claude,Within latitude,Yes,,8,reverse
+1mdcvh|cc84ghp|claude,claude,Within latitude,Yes,,7,reverse
+1o8oslz|njzw2ah|claude,claude,Within latitude,Yes,,7,reverse
+3izepf|cul8cco|claude,claude,Within latitude,Yes,,7,reverse
+16nttuv|k1goduu|claude,claude,Within latitude,Partially,,4,noise
+nerkh7|gyhrw30|claude,claude,Within latitude,Yes,,7,noise
+17b4ql9|k5h6fys|claude,claude,Within latitude,Yes,,6,noise
+ygn05q|iu9t67z|claude,claude,Within latitude,Yes,,6,noise
+ofdnn1|h4cnsig|claude,claude,Within latitude,Yes,E5,7,noise
+6m1xlb|djyea2h|claude,claude,Within latitude,Yes,,5,noise
+1082opa|j3q1s75|claude,claude,Within latitude,Yes,,6,noise

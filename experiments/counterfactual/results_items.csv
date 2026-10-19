@@ -1,0 +1,15 @@
+item_id,group,condition,stored,para_mean,edit_mean,diff,flip,edit_minus_stored,para_minus_stored,para_scores,edit_scores
+1otj7pk|no4x7oe|claude,target,to_within,3,2,3,1,False,0,-1,2 2 2 2 2,3 3 3 3 3
+12a4eco|jeqh3bc|claude,target,to_within,4,3,3.8,0.7999999999999998,False,-0.20000000000000018,-1,3 3 3 3 3,4 4 4 3 4
+t1e0go|hygrp3z|claude,target,to_within,5,4.4,4.4,0.0,False,-0.5999999999999996,-0.5999999999999996,4 4 5 5 4,5 5 4 4 4
+kq762d|gi29gkn|claude,target,to_within,6,6,6.2,0.20000000000000018,False,0.20000000000000018,0,6 6 6 6 6,7 6 6 6 6
+1ewdslq|liycs35|claude,target,to_within,3,2,2.8,0.7999999999999998,False,-0.20000000000000018,-1,2 2 2 2 2,3 2 3 3 3
+ubwcpp|i67n15h|claude,target,to_within,1,1,1.2,0.19999999999999996,False,0.19999999999999996,0,1 1 1 1 1,2 1 1 1 1
+8skv52|e10o3x9|claude,target,to_within,3,3,3,0,False,0,0,3 3 3 3 3,3 3 3 3 3
+1dlyt3u|l9shm76|claude,reverse,to_contrast,9,9,7.8,-1.2000000000000002,False,-1.2000000000000002,0,9 9 9 9 9,8 8 9 8 6
+2p6y53|cmu3xmz|claude,reverse,to_contrast,9,9,8.2,-0.8000000000000007,False,-0.8000000000000007,0,9 9 9 9 9,8 8 8 8 9
+altl91|efjefbu|claude,reverse,to_contrast,9,9,8.8,-0.1999999999999993,False,-0.1999999999999993,0,9 9 9 9 9,9 9 9 8 9
+5q3wh6|dcw4qag|claude,reverse,to_contrast,8,8,7,-1,False,-1,0,8 8 8 8 8,7 7 7 7 7
+1mdcvh|cc84ghp|claude,reverse,to_contrast,7,6.4,5.8,-0.6000000000000005,False,-1.2000000000000002,-0.5999999999999996,7 6 7 6 6,6 5 6 6 6
+1o8oslz|njzw2ah|claude,reverse,to_contrast,7,8,4.2,-3.8,True,-2.8,1,8 8 8 8 8,4 4 5 4 4
+3izepf|cul8cco|claude,reverse,to_contrast,7,8,6.4,-1.5999999999999996,True,-0.5999999999999996,1,8 8 8 8 8,6 6 7 7 6

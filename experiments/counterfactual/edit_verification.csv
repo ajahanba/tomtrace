@@ -1,0 +1,29 @@
+item_id,condition,n_changed,only_latitude_sentences,non_latitude_replaced,length_ratio,length_ok,new_numbers,no_new_numbers,new_entities,no_new_entities,all_pass,manual_override,override_reason
+1otj7pk|no4x7oe|claude,to_within,2,True,,0.993,True,,True,,True,True,no,
+1otj7pk|no4x7oe|claude,paraphrase,2,True,,1.004,True,,True,,True,True,no,
+12a4eco|jeqh3bc|claude,to_within,2,True,,1.007,True,,True,,True,True,no,
+12a4eco|jeqh3bc|claude,paraphrase,2,True,,0.990,True,,True,,True,True,no,
+t1e0go|hygrp3z|claude,to_within,2,True,,1.011,True,,True,,True,True,no,
+t1e0go|hygrp3z|claude,paraphrase,2,True,,1.004,True,,True,,True,True,no,
+kq762d|gi29gkn|claude,to_within,4,True,,0.964,True,,True,,True,True,no,
+kq762d|gi29gkn|claude,paraphrase,4,True,,1.005,True,,True,,True,True,no,
+1ewdslq|liycs35|claude,to_within,2,True,,0.969,True,,True,,True,True,no,
+1ewdslq|liycs35|claude,paraphrase,2,True,,0.978,True,,True,,True,True,no,
+ubwcpp|i67n15h|claude,to_within,3,False,"From the OP's perspective, this comment reads as validation, not challenge, making it persuasively inert.",1.018,True,,True,,True,False,yes,The sentence states the consequence of the assimilation call; leaving it unchanged would make Step 3 contradict itself.
+ubwcpp|i67n15h|claude,paraphrase,3,False,"From the OP's perspective, this comment reads as validation, not challenge, making it persuasively inert.",1.004,True,,True,,True,False,yes,Edits the same sentence as the to_within row so both conditions change the same text.
+8skv52|e10o3x9|claude,to_within,1,True,,0.989,True,,True,,True,True,no,
+8skv52|e10o3x9|claude,paraphrase,1,True,,1.002,True,,True,,True,True,no,
+1dlyt3u|l9shm76|claude,to_contrast,3,True,,0.991,True,,True,,True,True,no,
+1dlyt3u|l9shm76|claude,paraphrase,3,True,,0.992,True,,True,,True,True,no,
+2p6y53|cmu3xmz|claude,to_contrast,4,True,,1.037,True,,True,,True,True,no,
+2p6y53|cmu3xmz|claude,paraphrase,4,True,,0.997,True,,True,,True,True,no,
+altl91|efjefbu|claude,to_contrast,5,True,,0.974,True,,True,,True,True,no,
+altl91|efjefbu|claude,paraphrase,5,True,,1.005,True,,True,,True,True,no,
+5q3wh6|dcw4qag|claude,to_contrast,5,False,"This is close enough to the OP's existing pragmatic framework to be credible and non-threatening, yet genuinely new information that reframes the entire premise. | The argument doesn't merely restate the OP's position, nor does it leap to an incompatible worldview. | It meets the OP on their own pragmatic, security-focused terrain while introducing a factual correction that directly undermines their core assumption — the ideal persuasive distance for this particular OP.",1.007,True,,True,,True,False,yes,"Replaced sentences are latitude claims in Social Judgment Theory terms (credible/non-threatening distance, restate vs incompatible worldview, ideal persuasive distance); the vocabulary check is too narrow."
+5q3wh6|dcw4qag|claude,paraphrase,5,False,"This is close enough to the OP's existing pragmatic framework to be credible and non-threatening, yet genuinely new information that reframes the entire premise. | The argument doesn't merely restate the OP's position, nor does it leap to an incompatible worldview. | It meets the OP on their own pragmatic, security-focused terrain while introducing a factual correction that directly undermines their core assumption — the ideal persuasive distance for this particular OP.",1.008,True,,True,,True,False,yes,Same sentences as the to_contrast row: latitude claims in Social Judgment Theory terms; the vocabulary check is too narrow.
+1mdcvh|cc84ghp|claude,to_contrast,3,True,,1.006,True,,True,,True,True,no,
+1mdcvh|cc84ghp|claude,paraphrase,3,True,,1.001,True,,True,,True,True,no,
+1o8oslz|njzw2ah|claude,to_contrast,4,True,,0.976,True,,True,,True,True,no,
+1o8oslz|njzw2ah|claude,paraphrase,4,True,,0.991,True,,True,,True,True,no,
+3izepf|cul8cco|claude,to_contrast,3,True,,1.001,True,,True,,True,True,no,
+3izepf|cul8cco|claude,paraphrase,3,True,,0.981,True,,True,,True,True,no,

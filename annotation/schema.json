@@ -1,0 +1,136 @@
+{
+  "name": "ToMTrace",
+  "version": "1.0",
+  "unit": "one PAToM reasoning chain (post, comment, five step outputs) judged by one LLM",
+  "annotators_per_item": 3,
+  "label_source": "independent Pass-1 labels; no adjudication; majority vote derived",
+  "annotators_blind_to_delta": true,
+  "rating_scale": {
+    "2": "Correct: accurately captures the key content; a reasonable reader would agree",
+    "1": "Partially correct: misses an important aspect, overstates something, or adds an unsupported claim",
+    "0": "Incorrect: significantly mischaracterises the post/comment, invents content, or misidentifies the core claim"
+  },
+  "fields": [
+    {
+      "id": "s1_rating",
+      "step": 1,
+      "name": "OP belief state",
+      "type": "ordinal",
+      "labels": [
+        "0",
+        "1",
+        "2"
+      ],
+      "question": "Does Step 1 capture the OP's core claim and load-bearing assumptions, grounded strictly in the post?"
+    },
+    {
+      "id": "s2_rating",
+      "step": 2,
+      "name": "Commenter argument",
+      "type": "ordinal",
+      "labels": [
+        "0",
+        "1",
+        "2"
+      ],
+      "question": "Does Step 2 represent the commenter's argument and epistemic stance faithfully, without reading in intent?"
+    },
+    {
+      "id": "s3_rating",
+      "step": 3,
+      "name": "Latitude of acceptance",
+      "type": "ordinal",
+      "labels": [
+        "0",
+        "1",
+        "2"
+      ],
+      "question": "Is Step 3's latitude analysis correct, including which load-bearing assumption the comment targets?"
+    },
+    {
+      "id": "s3_class",
+      "step": 3,
+      "name": "Classification used",
+      "type": "nominal",
+      "labels": [
+        "Within latitude",
+        "Assimilation",
+        "Contrast"
+      ],
+      "question": "Which latitude classification did the judge's Step 3 reach?"
+    },
+    {
+      "id": "s3_correct",
+      "step": 3,
+      "name": "Classification endorsed (annotator endorsement)",
+      "type": "ordinal",
+      "labels": [
+        "No",
+        "Partially",
+        "Yes"
+      ],
+      "question": "Does the annotator, reading the post and comment without the outcome, find the judge's latitude classification supported? A lay reader's plausibility judgment, not ground truth and not the OP's actual latitude."
+    },
+    {
+      "id": "s4_rating",
+      "step": 4,
+      "name": "Credibility and tone",
+      "type": "ordinal",
+      "labels": [
+        "0",
+        "1",
+        "2"
+      ],
+      "question": "Does Step 4 assess register, good faith, and credibility from what the comment actually does?"
+    },
+    {
+      "id": "s5_rating",
+      "step": 5,
+      "name": "Final verdict (chain consistency)",
+      "type": "ordinal",
+      "labels": [
+        "0",
+        "1",
+        "2"
+      ],
+      "question": "Is the verdict a coherent synthesis of Steps 1-4? (A verdict that follows a flawed Step 3 is rated 2.)"
+    },
+    {
+      "id": "s5_follows",
+      "step": 5,
+      "name": "Verdict follows from Step 3",
+      "type": "ordinal",
+      "labels": [
+        "No",
+        "Partially",
+        "Yes"
+      ],
+      "question": "Does the verdict follow directly from the Step 3 latitude finding?"
+    },
+    {
+      "id": "s5_newreason",
+      "step": 5,
+      "name": "Introduces new reasoning",
+      "type": "nominal",
+      "labels": [
+        "No",
+        "Yes"
+      ],
+      "question": "Does Step 5 introduce reasoning not present in Steps 1-4?"
+    }
+  ],
+  "notes": "Free-text note required for any rating below 2.",
+  "failure_codes": {
+    "E1": "Latitude hedging: Step 3 floats several classifications without committing",
+    "E2": "Hedge carried into verdict",
+    "E3": "Flawed Step 3 carried into verdict",
+    "E4": "Latitude misclassification (not F2)",
+    "E5": "Unsupported / over-extended attribution",
+    "E6": "Incomplete capture of argument",
+    "F1": "OP-as-arbiter mismatch: verdict departs from the Step 3 finding",
+    "F2": "Latitude collapse on reframe: successful reframe called assimilation",
+    "F3": "Step 4 tone / social misjudgment",
+    "OT": "Other: commentary on comment quality; no reasoning failure"
+  },
+  "soft_labels": "annotator means for ordinal fields; Dawid-Skene posteriors for s3_correct"
+}

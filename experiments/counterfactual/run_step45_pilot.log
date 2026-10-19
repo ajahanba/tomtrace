@@ -1,0 +1,7 @@
+PILOT: planned calls without retries: 8 (4 edits x 1 repeats x 2 steps); follow-up calls already cached: 0; cap on all follow-up calls incl. retries: 180
+1otj7pk|no4x7oe|claude to_within r0: step4 attempts 1, 1595 chars -> score 3
+1otj7pk|no4x7oe|claude paraphrase r0: step4 attempts 1, 1612 chars -> score 2
+12a4eco|jeqh3bc|claude to_within r0: step4 attempts 1, 1827 chars -> score 4
+12a4eco|jeqh3bc|claude paraphrase r0: step4 attempts 1, 1569 chars -> score 3
+Follow-up calls in cache now: 8
+wrote pilot_step4.md

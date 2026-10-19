@@ -1,0 +1,31 @@
+SYSTEM PROMPT (passed with --system-prompt): PAToM system prompt from PaTom/chain_of_tom/chain_of_tom.py (_SYSTEM)
+
+USER MESSAGE (stdin):
+Below is a conversation in progress. Continue it by writing ONLY the assistant's response to the final user turn, following its instructions exactly.
+
+[USER - Step 1]
+{step1_user_turn}
+
+[ASSISTANT - Step 1]
+{stored_step1_output}
+
+[USER - Step 2]
+{step2_user_turn}
+
+[ASSISTANT - Step 2]
+{stored_step2_output}
+
+[USER - Step 3]
+{step3_user_turn}
+
+[ASSISTANT - Step 3]
+{stored_or_edited_step3_output}
+
+[USER - Step 4]
+{step4_user_turn}
+
+[ASSISTANT - Step 4]
+{stored_step4_output}
+
+[USER - Step 5]
+{step5_user_turn}

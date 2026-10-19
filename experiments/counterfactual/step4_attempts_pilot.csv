@@ -1,0 +1,5 @@
+item_id,condition,repeat,attempt,raw_chars,cut_at,kept_chars,valid,fail_reasons
+1otj7pk|no4x7oe|claude,to_within,0,1,1610,END OF STEP 4,1595,True,
+1otj7pk|no4x7oe|claude,paraphrase,0,1,1627,END OF STEP 4,1612,True,
+12a4eco|jeqh3bc|claude,to_within,0,1,1842,END OF STEP 4,1827,True,
+12a4eco|jeqh3bc|claude,paraphrase,0,1,1584,END OF STEP 4,1569,True,

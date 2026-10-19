@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="424" font-family="sans-serif" font-size="11">
+<rect width="760" height="424" fill="white"/>
+<line x1="230.0" y1="30" x2="230.0" y2="404" stroke="#ddd"/><text x="230.0" y="418" text-anchor="middle">1</text>
+<line x1="285.6" y1="30" x2="285.6" y2="404" stroke="#ddd"/><text x="285.6" y="418" text-anchor="middle">2</text>
+<line x1="341.1" y1="30" x2="341.1" y2="404" stroke="#ddd"/><text x="341.1" y="418" text-anchor="middle">3</text>
+<line x1="396.7" y1="30" x2="396.7" y2="404" stroke="#ddd"/><text x="396.7" y="418" text-anchor="middle">4</text>
+<line x1="452.2" y1="30" x2="452.2" y2="404" stroke="#ddd"/><text x="452.2" y="418" text-anchor="middle">5</text>
+<line x1="507.8" y1="30" x2="507.8" y2="404" stroke="#ddd"/><text x="507.8" y="418" text-anchor="middle">6</text>
+<line x1="563.3" y1="30" x2="563.3" y2="404" stroke="#ddd"/><text x="563.3" y="418" text-anchor="middle">7</text>
+<line x1="618.9" y1="30" x2="618.9" y2="404" stroke="#ddd"/><text x="618.9" y="418" text-anchor="middle">8</text>
+<line x1="674.4" y1="30" x2="674.4" y2="404" stroke="#ddd"/><text x="674.4" y="418" text-anchor="middle">9</text>
+<line x1="730.0" y1="30" x2="730.0" y2="404" stroke="#ddd"/><text x="730.0" y="418" text-anchor="middle">10</text>
+<line x1="563.3" y1="30" x2="563.3" y2="404" stroke="#999" stroke-dasharray="4 3"/><text x="566.3" y="26" fill="#666">delta threshold (7)</text>
+<text x="222" y="44" text-anchor="end">1otj7pk (target)</text>
+<line x1="285.6" y1="40" x2="341.1" y2="40" stroke="#1f77b4" stroke-width="2"/><circle cx="285.6" cy="40" r="4" fill="white" stroke="#1f77b4" stroke-width="2"/><circle cx="341.1" cy="40" r="4" fill="#1f77b4"/>
+<text x="341.1" y="44" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="70" text-anchor="end">12a4eco (target)</text>
+<line x1="341.1" y1="66" x2="385.6" y2="66" stroke="#1f77b4" stroke-width="2"/><circle cx="341.1" cy="66" r="4" fill="white" stroke="#1f77b4" stroke-width="2"/><circle cx="385.6" cy="66" r="4" fill="#1f77b4"/>
+<text x="396.7" y="70" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="96" text-anchor="end">t1e0go (target)</text>
+<line x1="418.9" y1="92" x2="418.9" y2="92" stroke="#1f77b4" stroke-width="2"/><circle cx="418.9" cy="92" r="4" fill="white" stroke="#1f77b4" stroke-width="2"/><circle cx="418.9" cy="92" r="4" fill="#1f77b4"/>
+<text x="452.2" y="96" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="122" text-anchor="end">kq762d (target)</text>
+<line x1="507.8" y1="118" x2="518.9" y2="118" stroke="#1f77b4" stroke-width="2"/><circle cx="507.8" cy="118" r="4" fill="white" stroke="#1f77b4" stroke-width="2"/><circle cx="518.9" cy="118" r="4" fill="#1f77b4"/>
+<text x="507.8" y="122" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="148" text-anchor="end">1ewdslq (target)</text>
+<line x1="285.6" y1="144" x2="330.0" y2="144" stroke="#1f77b4" stroke-width="2"/><circle cx="285.6" cy="144" r="4" fill="white" stroke="#1f77b4" stroke-width="2"/><circle cx="330.0" cy="144" r="4" fill="#1f77b4"/>
+<text x="341.1" y="148" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="174" text-anchor="end">ubwcpp (target)</text>
+<line x1="230.0" y1="170" x2="241.1" y2="170" stroke="#1f77b4" stroke-width="2"/><circle cx="230.0" cy="170" r="4" fill="white" stroke="#1f77b4" stroke-width="2"/><circle cx="241.1" cy="170" r="4" fill="#1f77b4"/>
+<text x="230.0" y="174" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="200" text-anchor="end">8skv52 (target)</text>
+<line x1="341.1" y1="196" x2="341.1" y2="196" stroke="#1f77b4" stroke-width="2"/><circle cx="341.1" cy="196" r="4" fill="white" stroke="#1f77b4" stroke-width="2"/><circle cx="341.1" cy="196" r="4" fill="#1f77b4"/>
+<text x="341.1" y="200" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="226" text-anchor="end">1dlyt3u (reverse)</text>
+<line x1="674.4" y1="222" x2="607.8" y2="222" stroke="#d62728" stroke-width="2"/><circle cx="674.4" cy="222" r="4" fill="white" stroke="#d62728" stroke-width="2"/><circle cx="607.8" cy="222" r="4" fill="#d62728"/>
+<text x="674.4" y="226" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="252" text-anchor="end">2p6y53 (reverse)</text>
+<line x1="674.4" y1="248" x2="630.0" y2="248" stroke="#d62728" stroke-width="2"/><circle cx="674.4" cy="248" r="4" fill="white" stroke="#d62728" stroke-width="2"/><circle cx="630.0" cy="248" r="4" fill="#d62728"/>
+<text x="674.4" y="252" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="278" text-anchor="end">altl91 (reverse)</text>
+<line x1="674.4" y1="274" x2="663.3" y2="274" stroke="#d62728" stroke-width="2"/><circle cx="674.4" cy="274" r="4" fill="white" stroke="#d62728" stroke-width="2"/><circle cx="663.3" cy="274" r="4" fill="#d62728"/>
+<text x="674.4" y="278" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="304" text-anchor="end">5q3wh6 (reverse)</text>
+<line x1="618.9" y1="300" x2="563.3" y2="300" stroke="#d62728" stroke-width="2"/><circle cx="618.9" cy="300" r="4" fill="white" stroke="#d62728" stroke-width="2"/><circle cx="563.3" cy="300" r="4" fill="#d62728"/>
+<text x="618.9" y="304" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="330" text-anchor="end">1mdcvh (reverse)</text>
+<line x1="530.0" y1="326" x2="496.7" y2="326" stroke="#d62728" stroke-width="2"/><circle cx="530.0" cy="326" r="4" fill="white" stroke="#d62728" stroke-width="2"/><circle cx="496.7" cy="326" r="4" fill="#d62728"/>
+<text x="563.3" y="330" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="356" text-anchor="end">1o8oslz (reverse)</text>
+<line x1="618.9" y1="352" x2="407.8" y2="352" stroke="#d62728" stroke-width="2"/><circle cx="618.9" cy="352" r="4" fill="white" stroke="#d62728" stroke-width="2"/><circle cx="407.8" cy="352" r="4" fill="#d62728"/>
+<text x="563.3" y="356" text-anchor="middle" fill="#888">×</text>
+<text x="222" y="382" text-anchor="end">3izepf (reverse)</text>
+<line x1="618.9" y1="378" x2="530.0" y2="378" stroke="#d62728" stroke-width="2"/><circle cx="618.9" cy="378" r="4" fill="white" stroke="#d62728" stroke-width="2"/><circle cx="530.0" cy="378" r="4" fill="#d62728"/>
+<text x="563.3" y="382" text-anchor="middle" fill="#888">×</text>
+<text x="230" y="18">○ paraphrase mean   ● edit mean (blue: to_within, red: to_contrast)   × stored score</text>
+</svg>

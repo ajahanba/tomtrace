@@ -1,0 +1,29 @@
+item_id,condition,n_changed_sentences,exact_match,verbatim_rest,length_ratio,length_ok,label_ok,new_words
+1otj7pk|no4x7oe|claude,to_within,2,True,True,0.993,True,True,falls give mere reconsider travels
+1otj7pk|no4x7oe|claude,paraphrase,2,True,True,1.004,True,True,about bring falls part partly probably something take words
+12a4eco|jeqh3bc|claude,to_within,2,True,True,1.007,True,True,cannot
+12a4eco|jeqh3bc|claude,paraphrase,2,True,True,0.990,True,True,because greater instead intended leaves maintaining risk shifting taken targeted untouched
+t1e0go|hygrp3z|claude,to_within,2,True,True,1.011,True,True,close stays
+t1e0go|hygrp3z|claude,paraphrase,2,True,True,1.004,True,True,boundary instead provoke purely
+kq762d|gi29gkn|claude,to_within,4,True,True,0.964,True,True,collapse
+kq762d|gi29gkn|claude,paraphrase,4,True,True,1.005,True,True,bringing carries equally escape falls largely read since treat
+1ewdslq|liycs35|claude,to_within,2,True,True,0.969,True,True,engaging fully
+1ewdslq|liycs35|claude,paraphrase,2,True,True,0.978,True,True,apologist's downplays enrage falls instead provoke real shifting
+ubwcpp|i67n15h|claude,to_within,3,True,True,1.018,True,True,force gives mere persuasive reinforce restate
+ubwcpp|i67n15h|claude,paraphrase,3,True,True,1.004,True,True,basically case complete fall leaves sense
+8skv52|e10o3x9|claude,to_within,1,True,True,0.989,True,True,although
+8skv52|e10o3x9|claude,paraphrase,1,True,True,1.002,True,True,arrived confirms greater instead mostly moving risk
+1dlyt3u|l9shm76|claude,to_contrast,3,True,True,0.991,True,True,prevent triggers
+1dlyt3u|l9shm76|claude,paraphrase,3,True,True,0.992,True,True,applies calibrated demand departs heads inverting leans produces strategic well
+2p6y53|cmu3xmz|claude,to_contrast,4,True,True,1.037,True,True,avoid prevent
+2p6y53|cmu3xmz|claude,paraphrase,4,True,True,0.997,True,True,calibrated falls heads keeps precisely reads well
+altl91|efjefbu|claude,to_contrast,5,True,True,0.974,True,True,empirical falls grounding practicality relatability whatever zone
+altl91|efjefbu|claude,paraphrase,5,True,True,1.005,True,True,considerable exactly matters precision real sits triggers without
+5q3wh6|dcw4qag|claude,to_contrast,5,True,True,1.007,True,True,approaches leaps
+5q3wh6|dcw4qag|claude,paraphrase,5,True,True,1.008,True,True,engages ground jumps precision relevant restates seem sits whole
+1mdcvh|cc84ghp|claude,to_contrast,3,True,True,1.006,True,True,avoid outcome
+1mdcvh|cc84ghp|claude,paraphrase,3,True,True,1.001,True,True,exists keeps leaves part partly stays triggered unaddressed
+1o8oslz|njzw2ah|claude,to_contrast,4,True,True,0.976,True,True,although inviting trigger
+1o8oslz|njzw2ah|claude,paraphrase,4,True,True,0.991,True,True,asked exactly genuinely instead keeping part read sits
+3izepf|cul8cco|claude,to_contrast,3,True,True,1.001,True,True,main
+3izepf|cul8cco|claude,paraphrase,3,True,True,0.981,True,True,exactly falls

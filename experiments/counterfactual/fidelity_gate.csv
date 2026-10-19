@@ -1,0 +1,8 @@
+item_id,stored_score,rerun_scores,n_reruns,parse_failures,mean_abs_diff,within_1,delta_agreement,format_match,stored_format_match,reported_models
+16nttuv|k1goduu|claude,4,3 3 3 3 3,5,0,1.00,1.00,1.00,5/5,True,claude-haiku-5-5;claude-sonnet-4-6
+nerkh7|gyhrw30|claude,7,6 5 5 5 6,5,0,1.60,0.40,0.00,5/5,True,claude-haiku-5-5;claude-sonnet-4-6
+17b4ql9|k5h6fys|claude,6,6 6 6 6 6,5,0,0.00,1.00,1.00,5/5,True,claude-haiku-5-5;claude-sonnet-4-6
+ygn05q|iu9t67z|claude,6,6 6 6 6 6,5,0,0.00,1.00,1.00,5/5,True,claude-haiku-5-5;claude-sonnet-4-6
+ofdnn1|h4cnsig|claude,7,7 7 7 7 8,5,0,0.20,1.00,1.00,5/5,True,claude-haiku-5-5;claude-sonnet-4-6
+6m1xlb|djyea2h|claude,5,5 5 5 4 4,5,0,0.40,1.00,1.00,5/5,True,claude-haiku-5-5;claude-sonnet-4-6
+1082opa|j3q1s75|claude,6,5 5 5 5 5,5,0,1.00,1.00,1.00,5/5,True,claude-haiku-5-5;claude-sonnet-4-6
